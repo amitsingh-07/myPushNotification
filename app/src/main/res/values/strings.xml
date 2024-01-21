@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPushNotification</string>
+    <string name="welcome_to_hcl">Welcome to HCL</string>
+</resources>
